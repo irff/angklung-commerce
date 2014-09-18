@@ -1,0 +1,56 @@
+body {
+	margin: 0 auto;
+	color: #444;
+}
+
+.container {
+	background-color: #D9E9F2;
+}
+
+.item {
+	padding: 15px;
+	background-color: #fff;
+	margin: 15px 0;
+}
+
+.item img {
+	max-width: 100%;
+}
+
+header {
+	color: #fff;
+	background-color: #5793C7;
+	margin: 0 -15px 50px -15px;
+	padding: 15px;
+}
+
+header h1 {
+	margin: 40px 0;
+}
+
+header h1 a {
+	color: #fff;
+}
+header h1 a:hover {
+	color: #fff;
+	text-decoration: none;
+}
+
+img.gambar {
+	max-width: 100%;
+	margin: 15px 0;
+}
+
+.about {
+	margin: 50px -15px 0 -15px;
+	padding: 15px;
+	background-color: #9FC1DF;
+}
+
+footer {
+	margin: 0 -15px;
+	color: #fff;
+	background-color: #5793C7;
+	text-align: center;
+	padding: 10px;
+}
